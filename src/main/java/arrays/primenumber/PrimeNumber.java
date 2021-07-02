@@ -1,4 +1,4 @@
-package arrays;
+package arrays.primenumber;
 
 import java.util.Scanner;
 
