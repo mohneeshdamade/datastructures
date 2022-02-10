@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 
 public class ArticleWordFrequencyCounter {
     private static ArrayList<String> readStrings() {
-        List<String> list = new ArrayList<>();
+        ArrayList<String> list = new ArrayList<>();
         Scanner in = new Scanner(System.in);
         try{
             while(in.hasNextLine()){
